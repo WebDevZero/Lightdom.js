@@ -1,5 +1,5 @@
-import { createElement as h } from './core/createElement.js';
-import { createApp } from './core/app.js';
+import {createElement as h} from './core/createElement.js';
+import {createApp} from './core/app.js';
 import HelloButton from './components/HelloButton.js';
 
 const App = () =>

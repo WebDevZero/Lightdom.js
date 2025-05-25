@@ -1,4 +1,5 @@
-import { createElement as h, defineComponent } from '../core/component.js';
+import { createElement as h} from '../core/createElement.js';
+import { defineComponent } from '../core/component.js';
 import { registerHooks } from '../core/lifecycle.js';
 
 const HelloButton = defineComponent(() => {
