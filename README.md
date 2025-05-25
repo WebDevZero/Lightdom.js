@@ -23,6 +23,7 @@ Designed to help you learn framework internals and build small projects with eas
 - Simple DOM renderer with event binding  
 - Reactive state with `reactive()` proxy  
 - Easy app mounting with `createApp`
+- Lifecycle hooks
 
 ---
 
