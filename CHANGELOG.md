@@ -9,3 +9,4 @@ All notable changes to this project will be documented in this file.
 - Simple functional components support
 - Minimal event handling (e.g., onclick)
 - Lifecycle hooks
+- Fixed blank screen issue

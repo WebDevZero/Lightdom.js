@@ -31,20 +31,30 @@ Designed to help you learn framework internals and build small projects with eas
 
 ```text
 Lightdom.js/
+├── docs/
+│   │──── api.md
+│   │──── examples.md
+│   │──── faq.md
+│   └──── getting-started.md
 ├── public/
-│   └── index.html
+│   │──── index.html
+│   └── styles/
+│       └──styles.css
 ├── src/
 │   ├── core/
 │   │   ├── app.js
 │   │   ├── component.js
 │   │   ├── createElement.js
 │   │   ├── reactive.js
-│   │   └── render.js
+│   │   ├── render.js
+│   │   ├── lifecycle.js
 │   ├── components/
 │   │   └── HelloButton.js
 │   └── main.js
 ├── .gitignore
-└── README.md
+├── README.md
+├── LICENSE
+└── CHANGELOG.md
 ```
 
 ---
