@@ -1,4 +1,5 @@
-export function render(element, container) {
+import { runUpdate } from './lifecycle.js';
+export function render(element, container, componentId) {
     
   const node = (typeof element === 'string' || typeof element === 'number') 
   ? document.createTextNode(element) 
@@ -19,8 +20,9 @@ export function render(element, container) {
       }
     });
 
-    element.children.forEach(child => render(child, node));
+    element.children.forEach(child => render(child, node, componentId));
   }
 
   container.appendChild(node);
+  runUpdate(componentId);
 }
