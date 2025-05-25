@@ -30,3 +30,37 @@
 - Use props like `onClick` for events
 
 ---
+
+## `registerHooks(componentId, hooks)`
+
+Register lifecycle hooks for a component instance.
+
+- **componentId** (string): Unique ID for this component instance  
+- **hooks** (object): Lifecycle callbacks  
+
+### Available hooks
+
+- `onMount`: Called after component is mounted  
+- `onUpdate`: Called after component updates  
+- `onUnmount`: Called before component unmounts  
+
+### Usage
+
+```
+import { registerHooks } from './core/lifecycle.js';
+
+registerHooks('comp-0', {
+  onMount() {
+    console.log('Mounted!');
+  },
+  onUpdate() {
+    console.log('Updated!');
+  },
+  onUnmount() {
+    console.log('Unmounted!');
+  }
+});
+```
+
+---
+

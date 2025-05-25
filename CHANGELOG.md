@@ -8,3 +8,4 @@ All notable changes to this project will be documented in this file.
 - Support for creating DOM elements and nesting children
 - Simple functional components support
 - Minimal event handling (e.g., onclick)
+- Lifecycle hooks
