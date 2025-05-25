@@ -3,6 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/WebDevZero/Lightdom.js)
 ![License](https://img.shields.io/github/license/WebDevZero/Lightdom.js)
 ![Made with JS](https://img.shields.io/badge/made%20with-JavaScript-yellow)
+![Build Status](https://img.shields.io/badge/status-experimental-red)
 
 ---
 
@@ -10,6 +11,8 @@
 
 Lightdom.js is a lightweight, simple JavaScript frontend framework built from scratch.  
 Designed to help you learn framework internals and build small projects with ease.
+
+> If you like the project consider following my github profile and starring the repo, it would help a lot! :)
 
 ---
 
