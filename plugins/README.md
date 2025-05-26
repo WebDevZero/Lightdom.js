@@ -1,8 +1,8 @@
-## Plugins
+# Plugins
 
 You can improve your components with plugins. eg.:
 
-# logger.js plugin:
+## logger.js plugin:
 
 Usage example:
 
@@ -12,7 +12,7 @@ import { withLogging } from './plugins/logger.js';
 const state = withLogging('comp-id', { count: 0 });
 ```
 ---
-# themetoggle .js plugin:
+## themetoggle .js plugin:
 
 Usage example:
 
@@ -21,7 +21,7 @@ import { toggleTheme } from '../plugins/themeToggle.js';
 toggleTheme(); // you can for example call it on click here
 ```
 ---
-# storage.js plugin:
+## storage.js plugin:
 
 Usage example:
 
