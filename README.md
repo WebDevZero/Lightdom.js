@@ -36,7 +36,9 @@ Lightdom.js/
 ├── plugins/
 │   │─────── logger.js
 │   │─────── README.md
-│   └─────── router.js
+│   │─────── router.js
+│   │─────── storage.js
+│   └─────── themetoggle.js
 ├── docs/
 │   │──── api.md
 │   │──── examples.md
