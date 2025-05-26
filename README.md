@@ -129,8 +129,8 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 
 Please follow standard GitHub flow:
 
-Fork the repo
-Create a feature branch
+Fork the repo<br>
+Create a feature branch<br>
 Submit a pull request with a clear description of your changes
 
 ---
