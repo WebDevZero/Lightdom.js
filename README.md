@@ -33,6 +33,10 @@ Designed to help you learn framework internals and build small projects with eas
 
 ```text
 Lightdom.js/
+├── plugins/
+│   │─────── logger.js
+│   │─────── README.md
+│   └─────── router.js
 ├── docs/
 │   │──── api.md
 │   │──── examples.md
