@@ -10,3 +10,9 @@ All notable changes to this project will be documented in this file.
 - Minimal event handling (e.g., onclick)
 - Lifecycle hooks
 - Fixed blank screen issue
+
+---
+
+## [1.1.0] - 2025-05-25
+### Added
+- Plugins (experimental)
