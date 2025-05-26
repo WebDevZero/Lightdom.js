@@ -1,9 +1,10 @@
 # Lightdom.js
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/WebDevZero/Lightdom.js)
-![License](https://img.shields.io/github/license/WebDevZero/Lightdom.js)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Made with JS](https://img.shields.io/badge/made%20with-JavaScript-yellow)
 ![Build Status](https://img.shields.io/badge/status-experimental-red)
+![Version](https://img.shields.io/badge/version-1.0.0-green)
 
 ---
 
