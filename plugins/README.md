@@ -40,3 +40,12 @@ import { scrollToTop } from './plugins/scrollToTop.js';
 scrollToTop();
 ```
 ---
+## autoresizer.js plugin:
+
+Usage example:
+
+```
+import { autoResize } from './plugins/autoResizer.js';
+autoResize();
+```
+---
