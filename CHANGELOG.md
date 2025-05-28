@@ -16,3 +16,13 @@ All notable changes to this project will be documented in this file.
 ## [1.1.0] - 2025-05-25
 ### Added
 - Plugins (experimental)
+
+---
+
+## [1.2.0] - 2025-05-25
+### Added
+- banner.js plugin
+- autoresizer.js plugin
+- scrolltotop.js plugin
+
+---
