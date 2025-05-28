@@ -49,3 +49,13 @@ import { autoResize } from './plugins/autoResizer.js';
 autoResize();
 ```
 ---
+## banner.js plugin:
+
+Usage example:
+
+```
+import { showBanner } from './plugins/banner.js';
+showBanner('Welcome to Lightdom.js!', 'info');
+```
+---
+
