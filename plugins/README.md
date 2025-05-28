@@ -31,3 +31,12 @@ storage.set('user', { name: 'whatevernameyouwant' });
 console.log(storage.get('user'));
 ```
 ---
+## scrolltotop.js plugin:
+
+Usage example:
+
+```
+import { scrollToTop } from './plugins/scrollToTop.js';
+scrollToTop();
+```
+---
