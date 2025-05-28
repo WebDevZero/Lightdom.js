@@ -25,7 +25,7 @@ Designed to help you learn framework internals and build small projects with eas
 - Reactive state with `reactive()` proxy  
 - Easy app mounting with `createApp`
 - Lifecycle hooks
-- Plugins (These plugins are experimental and may change as the framework evolves.)
+- Plugins
 
 ---
 
