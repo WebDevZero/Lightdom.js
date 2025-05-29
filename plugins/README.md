@@ -2,6 +2,24 @@
 
 You can improve your components with plugins. eg.:
 
+## Using plugins inside components:
+
+To use any plugin inside a component, just import it and call it on the element after it's rendered. Here's a simple example:
+```
+import { createElement as h, defineComponent } from '../core/component.js';
+import { yourPlugin } from '../plugins/yourPlugin.js';
+const MyComponent = defineComponent(() => {
+  setTimeout(() => {
+    const el = document.querySelector('.my-element');
+    if (el) yourPlugin(el);
+  }, 0);
+
+  return h('div', { className: 'my-element' }, 'Hello from plugin!');
+});
+export default MyComponent;
+```
+---
+
 ## logger.js plugin:
 
 This is how you would use it outside a component (globally)
