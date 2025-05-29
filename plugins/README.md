@@ -17,7 +17,7 @@ const state = withLogging('comp-id', { count: 0 });
 Usage example:
 
 ```
-import { toggleTheme } from '../plugins/themeToggle.js';
+import { toggleTheme } from '../plugins/themetoggle.js';
 toggleTheme(); // you can for example call it on click here
 ```
 ---
@@ -36,7 +36,7 @@ console.log(storage.get('user'));
 Usage example:
 
 ```
-import { scrollToTop } from './plugins/scrollToTop.js';
+import { scrollToTop } from './plugins/scrolltotop.js';
 scrollToTop();
 ```
 ---
@@ -45,7 +45,7 @@ scrollToTop();
 Usage example:
 
 ```
-import { autoResize } from './plugins/autoResizer.js';
+import { autoResize } from './plugins/autoresizer.js';
 autoResize();
 ```
 ---
