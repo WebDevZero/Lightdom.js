@@ -37,6 +37,7 @@ Designed to help you learn framework internals and build small projects with eas
 ```text
 Lightdom.js/
 ├── config/
+│   └─────── project.info.json
 ├── plugins/
 │   │─────── logger.js
 │   │─────── README.md
