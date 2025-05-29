@@ -1,6 +1,5 @@
 ![LightdomLogo](images/LightdomLOGO.png)
 
-# Lightdom.js
 <p align="center">
   <img src="https://img.shields.io/badge/Framework-007ACC?style=flat&logo=code&logoColor=white" alt="Framework" />
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License" />
