@@ -1,4 +1,4 @@
-![Logo](images\LightdomLOGO.png)
+![Logo](images/LightdomLOGO.png)
 
 # Lightdom.js
 
