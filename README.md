@@ -1,12 +1,13 @@
 ![LightdomLogo](images/LightdomLOGO.png)
 
 # Lightdom.js
-
+<p align="center">
 ![Framework](https://img.shields.io/badge/Framework-007ACC?style=flat&logo=code&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Made with JS](https://img.shields.io/badge/made%20with-JavaScript-yellow)
 ![Version](https://img.shields.io/badge/version-1.2.0-green)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+</p>
 
 ---
 
