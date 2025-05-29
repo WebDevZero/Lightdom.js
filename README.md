@@ -1,3 +1,5 @@
+![Logo](images\LightdomLOGO.png)
+
 # Lightdom.js
 
 ![Framework](https://img.shields.io/badge/Framework-007ACC?style=flat&logo=code&logoColor=white)
