@@ -41,7 +41,8 @@ Lightdom.js/
 │   │─────── themetoggle.js
 │   │─────── autoresizer.js
 │   │─────── banner.js
-│   └─────── scrolltotop.js
+│   │─────── scrolltotop.js
+│   └─────── animation.js
 ├── docs/
 │   │──── api.md
 │   │──── examples.md
