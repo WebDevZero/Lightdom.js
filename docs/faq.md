@@ -10,7 +10,7 @@ A: Not yet. You use the `createElement` function directly.
 A: Use the `reactive` function to create reactive state and bind it with `data-bind` in your HTML.
 
 **Q: Can I add routing?**  
-A: Not built-in, but you can integrate any router manually.
+A: Not built-in, but you can integrate any router manually (see plugins)
 
 ---
 
