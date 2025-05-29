@@ -1,4 +1,4 @@
-![LightdomLogo](images/LightdomLOGO.png)
+![LightdomLogo](images/LightdomLogoPNG.png)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Framework-007ACC?style=flat&logo=code&logoColor=white" alt="Framework" />
