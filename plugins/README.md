@@ -4,6 +4,7 @@ You can improve your components with plugins. eg.:
 
 ## logger.js plugin:
 
+This is how you would use it outside a component (globally)
 Usage example:
 
 ```
@@ -14,6 +15,7 @@ const state = withLogging('comp-id', { count: 0 });
 ---
 ## themetoggle .js plugin:
 
+This is how you would use it outside a component (globally)
 Usage example:
 
 ```
@@ -23,6 +25,7 @@ toggleTheme(); // you can for example call it on click here
 ---
 ## storage.js plugin:
 
+This is how you would use it outside a component (globally)
 Usage example:
 
 ```
@@ -33,6 +36,7 @@ console.log(storage.get('user'));
 ---
 ## scrolltotop.js plugin:
 
+This is how you would use it outside a component (globally)
 Usage example:
 
 ```
@@ -42,6 +46,7 @@ scrollToTop();
 ---
 ## autoresizer.js plugin:
 
+This is how you would use it outside a component (globally)
 Usage example:
 
 ```
@@ -51,6 +56,7 @@ autoResize();
 ---
 ## banner.js plugin:
 
+This is how you would use it outside a component (globally)
 Usage example:
 
 ```
@@ -58,4 +64,13 @@ import { showBanner } from './plugins/banner.js';
 showBanner('Welcome to Lightdom.js!', 'info');
 ```
 ---
+## animation.js plugin:
 
+This is how you would use it outside a component (globally)
+Usage example:
+
+```
+import { fadeIn } from './plugins/animation.js';
+fadeIn(document.querySelector('.myElement'), 600);
+```
+---
