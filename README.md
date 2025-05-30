@@ -36,7 +36,7 @@ Designed to help you learn framework internals and build small projects with eas
 
 ---
 
-## ⚙️ Features
+## Features
 
 - Custom `createElement` function for building virtual DOM objects  
 - Declarative component system with `defineComponent`  
