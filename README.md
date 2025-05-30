@@ -15,7 +15,7 @@
 ## 📑 Table of Contents
 
 - [About](#-about)
-- [Features](#-features)
+- [Features](#features)
 - [Project Structure](#-project-structure)
 - [Getting Started](#-getting-started)
 - [Usage Example](#-usage-example)
