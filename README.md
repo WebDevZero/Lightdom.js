@@ -18,7 +18,7 @@
 - [Features](#features)
 - [Project Structure](#-project-structure)
 - [Getting Started](#-getting-started)
-- [Usage Example](#-usage-example)
+- [Usage Example](#usage-example)
 - [Plugins](#-plugins)
 - [Learn More](#-learn-more)
 - [License](#-license)
