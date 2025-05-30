@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/badge/made%20with-JavaScript-yellow" alt="Made with JS" />
   <img src="https://img.shields.io/badge/version-1.2.0-green" alt="Version" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+
+  <em>Lightdom.js – Open Source, Fast, Focused</em>
 </p>
 
 
