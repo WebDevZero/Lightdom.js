@@ -36,6 +36,8 @@ Designed to help you learn framework internals and build small projects with eas
 
 ```text
 Lightdom.js/
+├── benchmarks
+│   └───────renderspeed.js
 ├── config/
 │   │─────── project.info.json
 │   └─────── version.txt
