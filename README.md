@@ -15,10 +15,11 @@
 ## 📑 Table of Contents
 
 - [About](#-about)
-- [Features](#️-features)
+- [Features](#-features)
 - [Project Structure](#-project-structure)
 - [Getting Started](#-getting-started)
-- [Usage Example](#️-usage-example)
+- [Usage Example](#-usage-example)
+- [Plugins](#-plugins)
 - [Learn More](#-learn-more)
 - [License](#-license)
 - [Contributing](#-contributing)
@@ -132,6 +133,13 @@ const App = () =>
 
 createApp(App).mount('#app');
 ```
+---
+## 🧩 Plugins
+
+- Lightdom.js supports plugin architecture for extending functionality  
+- Common plugin use cases include routing, state management, and theming  
+- Plugins can be enabled or disabled based on your app needs  
+- Refer to the `plugins/` directory for available plugins  
 
 ---
 
