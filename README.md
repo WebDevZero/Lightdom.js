@@ -11,6 +11,21 @@
 
 ---
 
+
+## 📑 Table of Contents
+
+- [About](#-about)
+- [Features](#️-features)
+- [Project Structure](#-project-structure)
+- [Getting Started](#-getting-started)
+- [Usage Example](#️-usage-example)
+- [Learn More](#-learn-more)
+- [License](#-license)
+- [Contributing](#-contributing)
+- [Thanks](#thanks)
+
+---
+
 ## 🚀 About
 
 Lightdom.js is a lightweight, simple JavaScript frontend framework built from scratch.  
