@@ -118,7 +118,7 @@ Open your browser at the URL provided by `serve`
 
 ---
 
-## 🛠️ Usage Example
+## Usage Example
 
 ```js
 import { createElement as h } from './core/createElement.js';
