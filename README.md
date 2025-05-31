@@ -1,7 +1,7 @@
 ![LightdomLogo](images/LightdomLogoPNG.png)
 <div align="center">
 
-<em><a href="https://webdevzero.dev/Lightdomjs/">Start</a> - Open Source, Fast, Focused</em>
+<em><a href="https://webdevzero.dev/Lightdomjs/">Lightdom.js</a> - Open Source, Fast, Focused</em>
 
 </div>
 
