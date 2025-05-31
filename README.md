@@ -1,4 +1,10 @@
 ![LightdomLogo](images/LightdomLogoPNG.png)
+<div align="center">
+
+_ [`Lightdom.js`](https://webdevzero.dev/Lightdomjs/)- Open Source, Fast, Focused _
+
+</div>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Framework-007ACC?style=flat&logo=code&logoColor=white" alt="Framework" />
