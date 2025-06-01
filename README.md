@@ -122,6 +122,10 @@ serve public
 
 Open your browser at the URL provided by `serve`
 
+OR
+
+Use any other static server of your choice
+
 ---
 
 ## Usage Example
